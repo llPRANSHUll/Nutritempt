@@ -68,3 +68,7 @@
    ```bash
    virtualenv --python=/usr/bin/python3.8 myenv
    source myenv/bin/activate
+
+## License
+  
+This `README.md` provides clear guidance on the project, commands, and how to use the system. Let me know if you'd like any adjustments or additional sections!
