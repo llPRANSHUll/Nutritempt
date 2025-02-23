@@ -11,8 +11,6 @@
 - 🚀 [Features](#-features)  
 - 🏗 [Development Process](#-development-process)  
 - 🛠 [Deployment Guide](#-deployment-guide)  
-- 💰 [Budget Estimation](#-budget-estimation)  
-- 📌 [Conclusion](#-conclusion)  
 
 ---
 
